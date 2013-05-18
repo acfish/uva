@@ -5,6 +5,7 @@
 #include<algorithm>
 
 #define eps 1e-8
+
 using namespace std;
 int s[110][110];
 int ou[110];
