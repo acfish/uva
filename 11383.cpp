@@ -1,3 +1,5 @@
+http://www.bnuoj.com/bnuoj/problem_show.php?pid=19801
+
 #include<cstdio>
 #include<iostream>
 #include<cstring>
